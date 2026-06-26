@@ -15,7 +15,8 @@ ver carpeta data(novaretail_comportamiento_clientes_2024)
 5. 	Interpretar resultados
 6. 	Limitaciones y próximos pasos
 
-Como ejecutar el notebook
+# Como ejecutar el notebook
+
 Abrir el notebook en Google Colab o Jupyter Notebook.
 Ejecutar las celdas en orden.
 Revisar los resultados y visualizaciones generadas
