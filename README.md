@@ -1,10 +1,10 @@
-**Objetivo del proyecto**
+#**Objetivo del proyecto**
 El objetivo es generar un reporte de análisis de correlación claro, responsable y accionable, que permita entender qué comportamientos del cliente están más fuertemente asociados con el ingreso generado
 
-**datasets utilizados:**
+#**datasets utilizados:**
 ver carpeta data(novaretail_comportamiento_clientes_2024)
 
-**etapas del análisis realizadas**
+#**etapas del análisis realizadas**
 1. 	Cargar y explorar el dataset
 2. 	Preparar datos y documentar supuestos
 3. 	Visualizar relaciones iniciales
